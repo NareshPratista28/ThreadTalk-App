@@ -23,7 +23,7 @@ function RegisterPage() {
         <div className="flex flex-col font-bold text-center text-white">
           <span>ThreadTalk</span>
           <span className="text-xl font-normal mb-2">
-            Where Conversations Unravel
+            Where Conversations Unravel!
           </span>
         </div>
       </header>
