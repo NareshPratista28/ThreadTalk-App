@@ -37,10 +37,7 @@ function LoginInput({ login }) {
       </div>
       <div className="form-field pt-5">
         <div className="form-control justify-between">
-          <button
-            type="submit"
-            onClick={() => login({ email, password })}
-            className="btn bg-accent w-full">
+          <button type="submit" className="btn bg-accent w-full">
             Sign In
           </button>
         </div>
